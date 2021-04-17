@@ -1,6 +1,6 @@
 # CSC-360
 
-Completed coursework for CSC 360: Operating Systems (Summer 2020) at University of Victoria
+Completed coursework for CSC 360: Operating Systems (Summer 2020) at University of Victoria.
 
 ### Topics
 
