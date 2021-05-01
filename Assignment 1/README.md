@@ -57,8 +57,7 @@ to stop a job that is currently stopped or start a job which is currently runnin
 
 The bglist command is updated to include a new field which is the status of the current background processes, where R indicates running and S indicates stopped:
 ```
-0[R]: /home/jason/a1/foo
-1[S]: /home/jason/a1/foo
+0[R]: /home/kutaycinar/a1/foo
+1[S]: /home/kutaycinar/a1/foo
 Total Background jobs: 2
 ```
-
