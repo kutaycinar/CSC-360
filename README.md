@@ -12,3 +12,11 @@ To understand how a set of computing resources can be shared safely, efficiently
 - CPU scheduling
 - Memory management and virtual memory
 - File systems and storage management
+
+# In this repository
+
+## [A1: Unix Shell Interpreter](./Assignment%201)
+
+## [A2: Trains and Bridges (threads and semaphores)](./Assignment%202)
+
+## [A3: FAT File System Utility Program](./Assignment%203)
