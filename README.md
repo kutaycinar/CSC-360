@@ -19,4 +19,4 @@ To understand how a set of computing resources can be shared safely, efficiently
 
 ## [A2: Trains and Bridges (threads and semaphores)](./Assignment%202)
 
-## [A3: FAT File System Utility Program](./Assignment%203)
+## [A3: File System Utility](./Assignment%203)
